@@ -1,0 +1,26 @@
+.boys{
+    background-color: red;
+}
+#specialP{
+    background-color: green;
+}
+#gray_BTN{
+    background-color: gray;
+    color: white;
+}
+#red_BTN{
+    background-color: red;
+    color: white;
+}
+#blue_BTN{
+    background-color: blue;
+    color: white;
+}
+#black_BTN{
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+input{
+    width: 205px;
+}
